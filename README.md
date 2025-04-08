@@ -30,7 +30,7 @@ just include attribution and don’t sell copies of our work without checking in
 
 ## when you need a sponsorship license
 
-if you're doing any of the following, we ask that you [get a sponsorship license](#):
+if you're doing any of the following, we ask that you [get a sponsorship license](mailto:sponsor@darkroom.engineering):
 
 - selling themes, templates, or plugins using our code  
 - packaging our tools in a product you sell to others  
